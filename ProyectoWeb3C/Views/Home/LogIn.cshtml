@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "LogIn";
+}
+
+<div class="card m-3 col-12 col-sm-8 col-md-6 col-lg-4 col-xl-4 mx-auto">
+    <div class="card-body">
+        <form action="/Home/LogIn" method="post">
+            
+            <div class="mb-3">
+                <label for="Correo" class="form-label">Correo:</label>
+                <input type="email" class="form-control" id="Correo" name="Email">
+            </div>
+            <div class="mb-3">
+                <label for="Contra" class="form-label">Contraseña:</label>
+                <input type="password" class="form-control" id="Contra" name="Password">
+            </div>
+            <small class="text-danger">@ViewBag.Response</small>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3">Registrarme</button>
+            </div>
+        </form>
+    </div>
+</div>
+
