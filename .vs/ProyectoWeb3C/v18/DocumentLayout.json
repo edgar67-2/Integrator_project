@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\models\\db_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\models\\db_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\models\\db_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\models\\db_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|d:\\edgar\\desktop\\proyectoweb3c\\proyectoweb3c\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|solutionrelative:proyectoweb3c\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E77B8F9-6C10-4004-8041-B801D4DCCACF}|ProyectoWeb3C\\ProyectoWeb3C.csproj|D:\\Edgar\\Desktop\\ProyectoWeb3C\\proyectoweb3c\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,8 +78,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Web.Debug.config",
+              "RelativeDocumentMoniker": "ProyectoWeb3C\\Web.Debug.config",
+              "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Web.Debug.config",
+              "RelativeToolTip": "ProyectoWeb3C\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-06T18:03:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Web.Release.config",
+              "RelativeDocumentMoniker": "ProyectoWeb3C\\Web.Release.config",
+              "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Web.Release.config",
+              "RelativeToolTip": "ProyectoWeb3C\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-06T18:03:24.497Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -80,27 +114,14 @@
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Web.config",
               "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Web.config",
               "RelativeToolTip": "ProyectoWeb3C\\Web.config",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-08-03T21:20:20.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Global.asax.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb3C\\Global.asax.cs",
-              "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Global.asax.cs",
-              "RelativeToolTip": "ProyectoWeb3C\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T21:20:12.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\_ViewStart.cshtml",
@@ -108,8 +129,7 @@
               "RelativeToolTip": "ProyectoWeb3C\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-03T21:19:54.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T21:19:54.193Z"
             },
             {
               "$type": "Document",
@@ -121,12 +141,11 @@
               "RelativeToolTip": "ProyectoWeb3C\\Models\\db_model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T21:19:48.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T21:19:48.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Web.config",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Web.config",
@@ -134,12 +153,11 @@
               "RelativeToolTip": "ProyectoWeb3C\\Views\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-08-03T21:17:38.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T21:17:38.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Home\\SignUp.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Home\\SignUp.cshtml",
@@ -151,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Models\\User.cs",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Models\\User.cs",
@@ -163,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Home\\Index.cshtml",
@@ -175,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Site.css",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Content\\Site.css",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Content\\Site.css",
@@ -187,7 +205,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb3C\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoWeb3C\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwDMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T21:08:25.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ProyectoWeb3C\\Global.asax.cs",
+              "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Global.asax.cs",
+              "RelativeToolTip": "ProyectoWeb3C\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T21:20:12.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LogIn.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Home\\LogIn.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Home\\LogIn.cshtml",
@@ -195,12 +237,11 @@
               "RelativeToolTip": "ProyectoWeb3C\\Views\\Home\\LogIn.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-03T21:08:25.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T21:08:25.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Home\\Contact.cshtml",
@@ -212,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Shared\\_Layout.cshtml",
@@ -220,12 +261,11 @@
               "RelativeToolTip": "ProyectoWeb3C\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-03T21:08:25.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T21:08:25.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Home\\About.cshtml",
@@ -237,20 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProyectoWeb3C\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProyectoWeb3C\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwDMAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T21:08:25.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserList.cshtml",
               "DocumentMoniker": "D:\\Edgar\\Desktop\\ProyectoWeb3C\\ProyectoWeb3C\\Views\\Home\\UserList.cshtml",
               "RelativeDocumentMoniker": "ProyectoWeb3C\\Views\\Home\\UserList.cshtml",
